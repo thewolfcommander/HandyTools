@@ -7,6 +7,16 @@
 ## About Project:
 This Project is developed in order to help the developers who know basics, in there project for rapid development without any time waste in the little things that bother developers the most.
 
+
+## Navigation for Languages
+
+**[PHP](https://github.com/neo-0224/HandyTools/tree/master/src/languages/php/)**
+
+
+## Navigation for Frameworks
+
+**[Django](https://github.com/neo-0224/HandyTools/tree/master/src/frameworks/django/)**
+
 ## Note: 
 ##### This Project is not recommended to use as learning purpose because, It is specially designed for developers who have little experience in the stack.
 
