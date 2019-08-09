@@ -1,0 +1,15 @@
+
+Hello Everyone
+
+Initial Developer Information:
+
+I am Manoj Tyagi, an Engineering undergraduate student from India. This section belongs to the Complex Web Crawler that crawls from website to website and submits the data to the database and is developed in PHP. I have assumed that you know Object Oriented PHP Basics. If you don't know, then I suggest you to not consider this repo because this project is mainly designed for the developers who atleast know some basics and quickly implement them for rapid development of Projects.
+Here's the Quick Guide for the system.
+
+## This section is designed for only quick reference to code for rapid development of projects and not for learning purpose. So I have not included comments in order to avoid any confusion in the code. If anyone wants to include comments, then the contributions are heartly welcomed.
+
+## There are two separate files, one is config.php and the other is crawl.php. config.php contains the necessary settings required to connect to the database and crawl.php contains several functions that are useful for crawling and storing the results in the database.
+
+## The section is self explained through code so there is no need to define what every line does. If any confusion or Issue persist, then please open an issue or mail us at tyagimanojtyagi.22@gmail.com
+
+Thank you
