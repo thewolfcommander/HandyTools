@@ -29,7 +29,7 @@ All you need to do is clone this repo, choose your stack and make a folder of yo
 
 Thank you.
 
-##### Live version of all the snippets coming soon.
+## [click here](https://neo-0224.github.io/HandyTools/) to see live version of snippets.
 
 
 ## About Me:
