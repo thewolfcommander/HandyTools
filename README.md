@@ -10,12 +10,17 @@ This Project is developed in order to help the developers who know basics, in th
 
 ## Navigation for Languages
 
-**[PHP](https://github.com/neo-0224/HandyTools/tree/master/src/languages/php/)**
+### [PHP](https://github.com/neo-0224/HandyTools/tree/master/src/languages/php/)
+
+- **[Simple Web Crawler](https://github.com/neo-0224/HandyTools/tree/master/src/languages/php/simple%20web%20crawler)**
 
 
 ## Navigation for Frameworks
 
-**[Django](https://github.com/neo-0224/HandyTools/tree/master/src/frameworks/django/)**
+### [Django](https://github.com/neo-0224/HandyTools/tree/master/src/frameworks/django/)
+
+- **[Custom Django User Model](https://github.com/neo-0224/HandyTools/tree/master/src/frameworks/django/Custom%20Django%20User%20Model)**
+- **[Simple Login Registration](https://github.com/neo-0224/HandyTools/tree/master/src/frameworks/django/Simple%20Login%20Registration)**
 
 ## Note: 
 ##### This Project is not recommended to use as learning purpose because, It is specially designed for developers who have little experience in the stack.
