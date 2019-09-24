@@ -5,7 +5,7 @@
 
 
 ## About Project:
-This Project is developed in order to help the developers who know basics, in there project for rapid development without any time waste in the little things that bother developers the most.
+This Project is developed in order to help the developers who know basics, in there project for rapid development without any time waste in the little things that bother developers the most. Repository created for help of developers.
 
 
 ## Navigation for Languages
