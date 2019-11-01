@@ -5,7 +5,7 @@ django-widget-tweaks==1.4.3
 django-fluent-contents==2.0.4
 django-fluent-utils==2.0.1
 gunicorn==19.9.0
-Pillow==5.4.1
+Pillow==6.2.0
 psycopg2==2.7.7
 djoser==1.4.0
 pytz==2018.9
