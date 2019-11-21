@@ -1,0 +1,5 @@
+This snippet is developed by Manoj Tyagi.
+Github link - https://github.com/thewolfcommander/
+LinkedIn link - https://linkedin.com/in/iammanojtyagi/
+
+Hello how are you, I am Manoj Tyagi. I am an Engineering Undergraduate from India. I have made this snippet which is just a small snippet that can add drag and drop feature to your cool project. So, keep coding and keep enjoying.
