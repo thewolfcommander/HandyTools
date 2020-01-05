@@ -10,6 +10,11 @@ This Project is developed in order to help the developers who know basics, in th
 
 ## Navigation for Languages
 
+### [Python](https://github.com/thewolfcommander/HandyTools/blob/master/src/languages/python/)
+
+- **[GUI Translator](https://github.com/thewolfcommander/HandyTools/blob/master/src/languages/python/gui_python_translator/GUIDE.md)**
+
+
 ### [PHP](https://github.com/neo-0224/HandyTools/tree/master/src/languages/php/)
 
 - **[Simple Web Crawler](https://github.com/neo-0224/HandyTools/tree/master/src/languages/php/simple%20web%20crawler)**
