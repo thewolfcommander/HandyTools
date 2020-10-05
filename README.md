@@ -35,11 +35,14 @@ If you have any code snippet that can save a lot of time for the project develop
 
 All you need to do is clone this repo, choose your stack and make a folder of your snippet. Inside that folder keep your files separate and keep minimum code that is related to the snippet or the particular task only. Also include requirements file or dependency file in order to reduce the possible errors. Must include a GUIDE.txt and inside that file, you should keep your name and about you in atmost 50 words. Then you should mention every single detail related to the snippet that can confuse the devlopers.
 
-[click here](https://github.com/neo-0224/HandyTools/) to Contribute to Project Now
+[click here](https://github.com/thewolfcommander/HandyTools/) to Contribute to Project Now
 
 Thank you.
 
-## [click here](https://neo-0224.github.io/HandyTools/) to see live version of snippets.
+## [click here](https://thewolfcommander.github.io/HandyTools/) to see live version of snippets.
+
+
+
 
 
 ## About Me:
@@ -49,5 +52,5 @@ I am an Engineering Undergraduate student from India. Basically I have been fasc
 Want to ping me?
 
 [Facebook](https://www.facebook.com/profile.php?id=100009926198901)
-[Instagram](https://www.instagram.com/m0nuu.tyagi_g)
+[Instagram](https://www.instagram.com/themanojtyagi)
 [LinkedIn](https://www.linkedin.com/in/iammanojtyagi/)
