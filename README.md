@@ -47,7 +47,7 @@ Thank you.
 
 ## About Me:
 
-I am an Engineering Undergraduate student from India. Basically I have been fascinated by the power of Open source communities since I have started my Developer career two years ago. My major stack of Development includes Python, JavaScript, HTML5, CSS3 and Frameworks like Bootstrap4, Django, Django REST Framework. I am currently improving my skills on Machine Learning using Tensorflow. Besides this, I am also a great fan of Blockchain Technology. 
+I am an Engineering Undergraduate student from India. Basically I have been fascinated by the power of Open source communities since I have started my Developer career two years ago. My major stack of Development includes Python, JavaScript, HTML5, CSS3 and Frameworks like ```Bootstrap4, Django, Django REST Framework```. I am currently improving my skills on Machine Learning using Tensorflow. Besides this, I am also a great fan of Blockchain Technology. 
 
 Want to ping me?
 
