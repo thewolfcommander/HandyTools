@@ -1,0 +1,22 @@
+TO RUN THIS PROJECT ON YOUR LOCAL MACHINE:
+
+Step 1. Open the project in any code editor you prefer.
+
+Step 2. Navigate to app.py file.
+
+Step 3. In the app.py file, open git bash.
+
+Step 4. Then write the following Commands in the order shown:
+
+		Command 1. export FLASK_APP=app.py (Press Enter Key)
+
+		(You can leave the Command 2 if you don't want the application to run in debug mode)
+
+		Command 2. export FLASK_DEBUG=1 (Press Enter Key)
+
+		Command 3. flask run (Press Enter Key)
+
+Step 5. Then Open "http://127.0.0.1:5000" in your browser.
+
+.
+
